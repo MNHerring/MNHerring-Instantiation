@@ -17,7 +17,9 @@ public class Lab {
      *
      * @return any object.
      */
+    //import java.util.Scanner;
     public Object instantiateANewObject(){
-        return null;
+        Object input = new Object();
+        return input;
     }
 }
